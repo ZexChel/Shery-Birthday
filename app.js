@@ -4,7 +4,7 @@ const content = {
   title: "Happy Birthday, My Favorite Person",
   heroSubtitle:
     'For every laugh, every conversation, and every beautiful memory we have made — this night is for you.',
-  secretCode: 'Realityclub',
+  secretCode: 'pink',
   navLinks: [
     { label: 'Home', href: '#home' },
     { label: 'Our Memories', href: '#memories' },
@@ -46,7 +46,7 @@ const content = {
     { title: 'Sweet Serenity', caption: 'A little sparkle in the dusk', image: 'images/gallery-1.jpg' },
     { title: 'Prettier Bloom', caption: 'When everything felt still', image: 'images/gallery-2.jpg' },
     { title: 'Beautiful Just the Way U Are', caption: 'A memory wrapped in warmth', image: 'images/gallery-3.webp' },
-    { title: 'Side by Side', caption: 'The kind of glow you never forget', image: 'images/gallery-4.png' },
+    { title: 'Our Shadow', caption: 'The kind of glow you never forget', image: 'images/gallery-4.jpg' },
     { title: 'Softly Yours', caption: 'The comfort of being known', image: 'images/gallery-5.jpeg' },
     { title: 'Midnight Glow', caption: 'A little romance in motion', image: 'images/gallery-6.jpeg' }
   ],
