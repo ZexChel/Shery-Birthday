@@ -59,7 +59,7 @@ const content = {
   ],
   closingHeadline: 'Happy Birthday, Truly.',
   closingText:
-    'May this new chapter of your life bring you a lot of happiness, good memories, and little moments tha make you genuinely smile. I hope everything youre working towards slowly finds its way to you, and that you always have enough courage to keep going, even when things get difficult. I hope you meet more people who appreciate you, understand you, and make you feel comfortablz e being yourself. and most importantly, i hooe you never forget how much youre worth. You desserve good things, cewyy. not just for today, but everyday after this. Im really glad i got to know you, and i hope this year gives us a lot mroe memories to look back on someday. Happy birthday once again. i hope 17 treats you kindly 🤍',
+    'May this new chapter of your life bring you a lot of happiness, good memories, and little moments tha make you genuinely smile. I hope everything youre working towards slowly finds its way to you, and that you always have enough courage to keep going, even when things get difficult. I hope you meet more people who appreciate you, understand you, and make you feel comfortable being yourself. and most importantly, i hope you never forget how much youre worth. You desserve good things, cewyy. not just for today, but everyday after this. Im really glad i got to know you, and i hope this year gives us a lot more memories to look back on someday. Happy birthday once again. i hope 17 treats you kindly 🤍',
   finalLine: 'Thank you for being part of my unexpected story.',
   finalSubline: "Here's to more memories."
 };
