@@ -1,5 +1,5 @@
 const content = {
-  recipientName: 'Shery Devi Cahyadi',
+  recipientName: 'Shery Devi Cahayadi',
   senderName: '-Chel',
   title: "Happy Birthday, My Favorite Person",
   heroSubtitle:
